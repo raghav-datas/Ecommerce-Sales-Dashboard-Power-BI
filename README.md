@@ -7,8 +7,17 @@
 - Advanced Filtering: Used complex parameters to enable drill-down functionality and added filters and slicers for user-level customization.
 - Data Modeling: Connected multiple data sources, joined new tables, and applied calculated columns and measures to shape the data effectively.
 - Custom Visualizations: Incorporated various visualization types including:
-  - Bar Chart
+  - Cards
   - Pie Chart
   - Donut Chart
- - Clustered Bar Chart
- - Slicers and Filters
+  - Stacked bar chart
+  - Slicers and Filters
+
+## 📌 Tools & Technologies Used
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Data Modelling & Data Transformation
+- Power Query Editor
+
+
+  
