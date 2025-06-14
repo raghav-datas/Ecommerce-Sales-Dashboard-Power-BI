@@ -22,3 +22,10 @@
 
 ## 📸 Sample Screenshots
 ![Final Dashboard](https://github.com/raghav-datas/Ecommerce-Sales-Dashboard-Power-BI/blob/main/Ecommerce%20Sales%20Dashboard.png)
+
+
+## 🚀 How to Use
+- Download or clone the repository.
+- Open the .pbix file using Power BI Desktop.
+- Connect your own dataset or explore the sample data.
+- Interact with filters, slicers, and visuals to explore insights.
